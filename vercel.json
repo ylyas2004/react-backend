@@ -13,8 +13,4 @@
         "dest": "./bin/www"
       }
     ],
-    "scripts": {
-      "build": "echo 'No build step required'",
-      "start": "npm start"
-    }
   }
